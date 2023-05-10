@@ -1,1 +1,1 @@
-# westworld-gpt
+# sample python bot client
